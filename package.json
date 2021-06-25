@@ -1,0 +1,69 @@
+{
+  "name": "otake",
+  "version": "2.0.0",
+  "description": "A Discordjs bot which has many uses, one of which is playing songs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stevanvincent/Otake.git"
+  },
+  "keywords": [
+    "discordbot",
+    "music",
+    "discordjs",
+    "template",
+    "functional",
+    "mp3",
+    "music",
+    "djs"
+  ],
+  "author": "Stevanvincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stevanvincent/Otake/issues"
+  },
+  "homepage": "https://github.com/Stevanvincent/Otake#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+        "@distube/soundcloud": "^0.1.2",
+        "@distube/spotify": "^0.3.1",
+        "@distube/youtube-dl": "^2.1.1",
+        "@distube/ytdl": "^2.0.6",
+        "@distube/ytpl": "^1.0.11",
+        "@distube/ytsr": "^1.1.0",
+        "@justalk/anime-api": "^3.0.0",
+        "@k3rn31p4nic/google-translate-api": "^1.1.1",
+        "andoi-image-api": "^1.0.2",
+        "anime-character-random": "^1.0.5",
+        "axios": "^0.21.0",
+        "canvacord": "^5.2.0",
+        "chalk": "^4.1.0",
+        "colon-notation": "^1.2.1",
+        "discord-buttons": "^2.4.1",
+        "discord.js": "^12.5.3",
+        "distube": "^3.0.0-beta.23",
+        "ffmpeg-static": "^4.3.0",
+        "genius-lyrics": "^4.2.9",
+        "hmfull": "^1.2.3",
+        "imdb-api": "^4.4.1",
+        "is-url": "^1.2.4",
+        "isgd": "^1.1.3",
+        "kytra-api": "^1.1.4",
+        "lyrics-finder": "^21.7.0",
+        "moment": "^2.29.1",
+        "mongoose": "^5.12.11",
+        "ms": "^2.1.3",
+        "node-fetch": "^2.6.1",
+        "os": "^0.1.1",
+        "pretty-ms": "^7.0.1",
+        "random-anime": "^1.0.6",
+        "solenolyrics": "^5.0.0",
+        "spotify-url-info": "^2.2.3",
+        "string-progressbar": "^1.0.4",
+        "weather-js": "^2.0.0",
+        "ytdl-core": "^4.8.2"
+  }
+}
