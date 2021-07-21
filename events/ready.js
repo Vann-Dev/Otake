@@ -18,8 +18,8 @@ module.exports = async(bot, msg) => {
     } catch (err) {
         bot.logger.error('Ready event error - ' + err);
     }
-    const webhookID = '847463279436496917'
-    const webhookToken = 'cewNV9QKW-1fSkkqwAsEF5gUMCFAPhxfRV7aaHC85ZvLE-E9YZiUb47Pc0JWZiXmZq1z'
+    const webhookID = ''
+    const webhookToken = ''
 
     const WebhookC = new WebhookClient(webhookID, webhookToken)
 
